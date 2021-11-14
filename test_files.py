@@ -5,3 +5,4 @@ print('lets go')
 
 logger = logging.getLogger(__name__)
 logger.info('hey lets go')
+logger.warning('hey this time')
